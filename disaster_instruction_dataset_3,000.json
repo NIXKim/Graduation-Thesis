@@ -1,0 +1,1592 @@
+[
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A strong earthquake with a magnitude of 7.0 has hit the city, causing buildings to collapse and power outages.",
+    "output": "Stay away from damaged buildings and power lines, and seek shelter in an open area away from debris."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 호우주의보가 발령되었습니다. 강한 비가 계속되고 있습니다.",
+    "output": "가능한 외출을 삼가고, 침수되지 않도록 하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A wildfire is spreading rapidly in the forested area near a residential neighborhood.",
+    "output": "Evacuate immediately to a safe location away from the fire and follow instructions from authorities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제시하세요.",
+    "input": "A heatwave warning has been issued for the city, with temperatures expected to reach 40 degrees Celsius.",
+    "output": "Stay hydrated, avoid outdoor activities during peak hours, and check on vulnerable individuals."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flash flood has swept through a low-lying area, causing roads to be submerged and cars to be stranded.",
+    "output": "Avoid driving through flooded roads, seek higher ground, and stay tuned to weather updates."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A category 4 hurricane is approaching the coastal area, bringing strong winds and heavy rainfall.",
+    "output": "Evacuate if advised, secure outdoor objects, and stay indoors during the storm."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "An erupting volcano has released ash clouds, causing air travel disruptions and respiratory issues.",
+    "output": "Stay indoors, wear a mask outdoors, and follow evacuation orders if necessary."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "A major earthquake has triggered a tsunami warning along the coastal regions.",
+    "output": "Move to higher ground immediately, follow evacuation routes, and stay away from the shoreline."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A severe thunderstorm with hail and strong winds is forecasted for the afternoon.",
+    "output": "Secure outdoor objects, stay indoors, and avoid standing under tall trees or poles."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A forest fire has broken out near a popular hiking trail, leading to smoke inhalation risks.",
+    "output": "Avoid the affected area, evacuate if necessary, and seek medical attention for breathing difficulties."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A blizzard warning is in effect, with heavy snowfall and strong winds expected to cause travel disruptions.",
+    "output": "Stay indoors, keep warm, and avoid unnecessary travel until the storm passes."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제시하세요.",
+    "input": "A major flood has submerged roads and homes, leading to widespread evacuations.",
+    "output": "Follow evacuation orders, do not attempt to drive through flooded areas, and seek shelter in a safe location."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A severe drought has caused water shortages in the region, affecting agriculture and daily life.",
+    "output": "Conserve water, limit outdoor water usage, and support water conservation efforts in the community."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A mudslide has blocked a major highway, trapping vehicles and endangering motorists.",
+    "output": "Avoid the affected area, seek alternative routes, and report any hazardous conditions to authorities."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tsunami warning has been issued following a powerful undersea earthquake near the coast.",
+    "output": "Move to higher ground immediately, do not wait for official instructions, and stay alert for aftershocks."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "A large-scale power outage has occurred in the city due to a technical malfunction at the power plant.",
+    "output": "Conserve battery power, use flashlights instead of candles, and check on neighbors, especially the elderly."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A toxic gas leak has been reported in a chemical plant, leading to health risks in the surrounding area.",
+    "output": "Stay indoors, close all windows and doors, and cover nose and mouth with a damp cloth if exposed to the gas."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A forest fire has broken out near a residential area, causing air quality to deteriorate rapidly.",
+    "output": "Evacuate if advised, close windows and doors, and seek medical attention for respiratory issues."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major gas explosion has occurred in a downtown area, causing multiple injuries and structural damage.",
+    "output": "Evacuate the area immediately, avoid using electronic devices, and help injured individuals if safe to do so."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제시하세요.",
+    "input": "A hailstorm with large hailstones has damaged vehicles and properties in a residential neighborhood.",
+    "output": "Stay indoors, park vehicles in a garage if possible, and cover windows to protect against hail damage."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A chemical spill has contaminated the local water supply, posing a health risk to residents.",
+    "output": "Avoid using tap water, seek alternative water sources, and follow instructions from health authorities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A major snowstorm is forecasted to bring heavy snow accumulation and blizzard conditions.",
+    "output": "Stay indoors, stock up on essentials, and check on neighbors, especially those who may need assistance."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A series of aftershocks has followed a powerful earthquake, causing further damage and panic among residents.",
+    "output": "Stay calm, seek shelter in an open area away from buildings, and be prepared for additional tremors."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "A major hurricane has made landfall, bringing destructive winds and storm surges along the coast.",
+    "output": "Stay indoors, away from windows, and follow evacuation orders if directed by local authorities."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A massive oil spill has polluted the coastline, threatening marine life and local ecosystems.",
+    "output": "Avoid contact with contaminated water, report any oiled wildlife, and volunteer for cleanup efforts if trained."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A sudden flash flood has inundated a residential area, trapping residents in their homes.",
+    "output": "Move to higher ground if possible, signal for help, and stay away from fast-moving water."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A severe blizzard has caused road closures and power outages in rural areas, isolating communities.",
+    "output": "Stay indoors, conserve heat, and check on neighbors, especially those who may be vulnerable."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제시하세요.",
+    "input": "A wildfire has spread to a national park, threatening wildlife habitats and recreational areas.",
+    "output": "Avoid the affected area, follow park ranger instructions, and do not attempt to extinguish the fire yourself."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tornado warning has been issued for the region, with funnel clouds spotted in the vicinity.",
+    "output": "Seek shelter in a sturdy building, avoid windows, and stay tuned to weather updates for further instructions."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A volcanic eruption has released ash plumes, causing air travel disruptions and health concerns.",
+    "output": "Stay indoors, wear a mask outdoors, and follow evacuation orders if necessary."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major earthquake has caused landslides and road closures in mountainous regions, hampering rescue efforts.",
+    "output": "Avoid travel to affected areas, stay clear of unstable slopes, and report any trapped individuals to authorities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "A heatwave advisory has been issued for the city, with temperatures expected to exceed 35 degrees Celsius.",
+    "output": "Stay hydrated, avoid prolonged sun exposure, and check on elderly neighbors and pets."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flash flood warning has been issued for low-lying areas, with heavy rainfall expected to continue overnight.",
+    "output": "Move to higher ground, avoid walking or driving through floodwaters, and have emergency supplies ready."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A tropical storm is approaching the coastal region, bringing gusty winds and torrential rain.",
+    "output": "Secure outdoor objects, stay indoors, and follow evacuation orders if directed by local authorities."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A massive earthquake has triggered a tsunami alert, urging coastal residents to move to higher ground.",
+    "output": "Evacuate coastal areas immediately, do not wait for official orders, and stay tuned to emergency broadcasts."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제시하세요.",
+    "input": "A severe thunderstorm is forecasted to bring hail and strong winds, posing risks to outdoor activities.",
+    "output": "Seek shelter indoors, protect vehicles from hail damage, and avoid standing near tall objects."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A forest fire has engulfed a wildlife sanctuary, threatening endangered species and natural habitats.",
+    "output": "Avoid the affected area, support wildlife rescue efforts, and stay informed about evacuation routes."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A flash flood has washed away a bridge, cutting off access to a remote village in the mountains.",
+    "output": "Avoid crossing flooded areas, seek alternative routes, and assist with rescue efforts if trained to do so."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tornado has touched down in a suburban neighborhood, causing damage to homes and vehicles.",
+    "output": "Take shelter in a basement or interior room, away from windows, and listen for updates on the storm's path."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "A heatwave has gripped the city, with temperatures soaring above 40 degrees Celsius for several days.",
+    "output": "Stay indoors during peak hours, drink plenty of water, and check on elderly neighbors who may need assistance."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A volcanic eruption has triggered lahars, mudflows that can engulf surrounding areas and infrastructure.",
+    "output": "Stay away from river valleys, move to higher ground, and heed evacuation orders to avoid being trapped by lahars."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A major flood has breached the levees, inundating residential areas and displacing thousands of residents.",
+    "output": "Seek higher ground, follow evacuation routes, and assist neighbors who may need help evacuating."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A severe blizzard has caused whiteout conditions and stranded motorists on a highway.",
+    "output": "Stay in your vehicle, run the engine periodically for heat, and tie a bright cloth to the antenna for visibility."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제시하세요.",
+    "input": "A major wildfire has forced evacuations in a rural community, destroying homes and wildlife habitats.",
+    "output": "Follow evacuation orders, take essential belongings, and stay informed about shelter locations."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tsunami has struck the coastal area, causing widespread destruction and triggering search and rescue operations.",
+    "output": "Stay away from the shoreline, move to higher ground, and assist emergency responders with their efforts."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A major earthquake has caused building collapses and fires in the city, leading to multiple injuries and casualties.",
+    "output": "Check for gas leaks, extinguish small fires if safe to do so, and assist injured individuals while awaiting help."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flash flood has submerged a town, cutting off access to essential services and supplies.",
+    "output": "Seek higher ground, avoid flooded areas, and signal for help using bright-colored clothing or objects."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "A severe thunderstorm with hail and strong winds is approaching the area, posing risks to outdoor activities.",
+    "output": "Seek shelter indoors, protect vehicles from hail damage, and avoid standing under trees or power lines."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major hurricane is forecasted to make landfall, bringing destructive winds and storm surges along the coast.",
+    "output": "Evacuate if directed, secure loose objects, and stay indoors during the storm to avoid flying debris."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A wildfire has spread to a residential area, prompting evacuations and air quality concerns.",
+    "output": "Leave the area if advised, close windows and doors, and seek medical attention for respiratory issues."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tornado warning has been issued for the region, with funnel clouds spotted in the vicinity.",
+    "output": "Take shelter in a basement or interior room, away from windows, and listen for updates on the storm's path."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제시하세요.",
+    "input": "A massive earthquake has triggered a tsunami alert, urging coastal residents to move to higher ground.",
+    "output": "Evacuate coastal areas immediately, do not wait for official orders, and stay tuned to emergency broadcasts."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A volcanic eruption has released ash plumes, causing air travel disruptions and health concerns.",
+    "output": "Stay indoors, wear a mask outdoors, and follow evacuation orders if necessary."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A strong earthquake with a magnitude of 6.5 has struck the city of Seoul, causing buildings to collapse and power outages.",
+    "output": "Seek shelter under a sturdy table or desk, and stay away from windows and heavy objects."
+  },
+  {
+    "instruction": "시민에게 홍수 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 강우량이 급증하고 있으며, 하천 수위가 상승 중입니다.",
+    "output": "가까운 안전한 고지대로 이동하고, 침수되지 않도록 물품을 올리세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A wildfire has broken out in the mountains near Busan, spreading rapidly due to strong winds.",
+    "output": "Evacuate immediately and follow instructions from local authorities. Do not return home until it is safe."
+  },
+  {
+    "instruction": "시민에게 지진 대응 조언을 제공하세요.",
+    "input": "경주 지역에서 규모 5.0의 지진이 발생하여 건물 구조물에 손상이 발생했습니다.",
+    "output": "안전한 장소로 대피하고, 여진이 있을 수 있으니 안정적인 위치에서 대기하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A heatwave warning has been issued for Daegu, with temperatures expected to reach 38 degrees Celsius.",
+    "output": "Stay indoors during peak hours, stay hydrated, and avoid strenuous activities to prevent heat-related illnesses."
+  },
+  {
+    "instruction": "시민에게 태풍 대응 조언을 제공하세요.",
+    "input": "제주도 해안 근처에서 강력한 태풍이 발달 중이며, 해상 강풍 경보가 발령되었습니다.",
+    "output": "긴급 대피 명령에 따라 안전한 장소로 대피하고, 외출을 삼가세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flash flood warning has been issued for Incheon, with heavy rainfall expected to cause flooding in low-lying areas.",
+    "output": "Avoid walking or driving through flooded areas, and seek higher ground if necessary."
+  },
+  {
+    "instruction": "시민에게 산불 대응 조언을 제공하세요.",
+    "input": "대구 산악 지역에서 산불이 발생하여 주변 지역에 연기와 재해가 퍼지고 있습니다.",
+    "output": "즉시 대피하고, 호흡기를 보호하며 안전한 지역으로 이동하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tsunami warning has been issued for the coastal areas of Ulsan, following a strong undersea earthquake.",
+    "output": "Move to higher ground immediately and stay tuned to local news for updates on the situation."
+  },
+  {
+    "instruction": "시민에게 폭염 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 열대야가 예상되며, 높은 습도로 인한 불쾌지수가 상승 중입니다.",
+    "output": "물을 충분히 섭취하고, 에어컨을 켜서 냉각하며 실외 활동을 자제하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A strong earthquake has occurred in the Tokyo region, causing significant damage to buildings and roads.",
+    "output": "Stay away from damaged buildings and roads, and seek shelter in an open area away from potential hazards."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 호우주의보가 발령되었습니다. 강한 비와 함께 강풍이 예상됩니다.",
+    "output": "가급적 외출을 삼가고, 비 영향을 받을 수 있는 지역에서는 안전한 장소로 대피해주세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A forest fire is spreading rapidly near a residential area in California, posing a threat to nearby homes.",
+    "output": "Evacuate immediately and follow the instructions of emergency responders to ensure your safety."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "서울에서 폭염주의보가 발령되었습니다. 기온이 35도 이상으로 치솟을 예정입니다.",
+    "output": "물을 충분히 섭취하고, 무리하지 말고 시원한 장소에 머무르세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flood warning has been issued for the areas along the Mississippi River, with heavy rainfall expected in the coming days.",
+    "output": "Stay informed about the flood situation, prepare emergency supplies, and be ready to evacuate if necessary."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "제주도 해안에서 강한 바람을 동반한 폭염이 예상됩니다. 해안 접근을 자제하세요.",
+    "output": "물을 충분히 마시고, 모자나 선크림을 통해 태양광을 차단하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major typhoon is approaching the Philippines, with destructive winds and heavy rainfall expected to cause widespread damage.",
+    "output": "Secure loose objects, stay indoors, and follow evacuation orders from local authorities to ensure your safety."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "일본 교토 지역에서 강진이 발생하였으며, 건물 구조물에 피해가 발생하였습니다.",
+    "output": "안전한 장소로 대피하고, 손전등과 비상식량을 준비하여 대비하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A wildfire has broken out in the Amazon rainforest, threatening the biodiversity and ecosystems of the region.",
+    "output": "Avoid areas near the wildfire, follow evacuation orders, and support efforts to contain the fire to protect the environment."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "한국 동해안에서 지진이 발생하였으며, 여러 건물이 피해를 입었습니다.",
+    "output": "안전한 장소로 대피하고, 자신의 안전을 최우선으로 생각하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A strong earthquake with a magnitude of 7.0 has struck Tokyo, Japan.",
+    "output": "Take cover under a sturdy piece of furniture and stay away from windows and heavy objects."
+  },
+  {
+    "instruction": "시민에게 홍수 대비 방법을 안내하세요.",
+    "input": "서울 지역 강수량이 급증하여 하천 수위가 상승하고 있습니다.",
+    "output": "가까운 안전 지점으로 이동하고 침수 위험이 있는 지역을 피하세요."
+  },
+  {
+    "instruction": "Provide guidance on how citizens can respond to wildfires.",
+    "input": "A wildfire is rapidly spreading in California, USA, and evacuations are underway.",
+    "output": "Follow evacuation orders immediately and take necessary belongings with you."
+  },
+  {
+    "instruction": "시민에게 지진 대응을 위한 조언을 제공하세요.",
+    "input": "일본 도쿄 근처에서 6.5 규모의 지진이 발생했습니다.",
+    "output": "안전한 장소로 대피하고 지진 후에도 건물 안에 머무르세요."
+  },
+  {
+    "instruction": "Offer advice on how citizens can prepare for a heat wave.",
+    "input": "Temperatures in Sydney, Australia are expected to reach over 40 degrees Celsius.",
+    "output": "Stay hydrated, avoid strenuous activities, and seek shade or air-conditioned places."
+  },
+  {
+    "instruction": "시민에게 태풍 대비 조언을 제공하세요.",
+    "input": "필리핀 근해에서 강력한 태풍이 발생하여 바람 속도가 200km/h를 넘습니다.",
+    "output": "물품을 고정하고 실외 활동을 삼가며 실내에 머무르세요."
+  },
+  {
+    "instruction": "Provide citizens with advice on responding to a flood.",
+    "input": "Heavy rainfall in London, UK has caused rivers to overflow and flood certain areas.",
+    "output": "Avoid flooded areas, move to higher ground, and do not attempt to drive or walk through floodwaters."
+  },
+  {
+    "instruction": "시민에게 산불 대응 방법을 안내하세요.",
+    "input": "California의 산악 지역에서 산불이 발생하여 주변 지역에 연기가 퍼지고 있습니다.",
+    "output": "포화된 지역을 피하고 대피 명령에 따르며 숨을 가리는 것이 필요한 경우 마스크를 착용하세요."
+  },
+  {
+    "instruction": "Offer guidance on how citizens can respond to a tsunami.",
+    "input": "A powerful earthquake has occurred near Indonesia, triggering a tsunami warning.",
+    "output": "Move to higher ground immediately if you are in a coastal area and follow evacuation routes."
+  },
+  {
+    "instruction": "시민에게 폭염 대비 조언을 제공하세요.",
+    "input": "모스크바 지역에서 기록적인 더위가 예상되며 열파 경보가 발령되었습니다.",
+    "output": "물을 충분히 섭취하고 실외 활동을 피하며 시원한 장소를 찾으세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A strong earthquake with a magnitude of 7.0 has struck Tokyo, Japan, causing widespread damage.",
+    "output": "Seek shelter under a sturdy table or desk and stay away from windows and heavy objects."
+  },
+  {
+    "instruction": "시민에게 홍수 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 강한 폭우가 계속되고 있습니다. 하천이 범람할 가능성이 높습니다.",
+    "output": "가능한 고지대로 대피하고, 침수 위험 지역을 피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A forest fire has broken out near Los Angeles, California, and is spreading rapidly due to strong winds.",
+    "output": "Evacuate immediately if instructed, and follow the designated evacuation routes."
+  },
+  {
+    "instruction": "시민에게 지진 대응 조언을 제공하세요.",
+    "input": "서울에서 소규모 지진이 발생했습니다. 여진이 예상됩니다.",
+    "output": "안전한 장소로 대피하고, 가스 밸브를 닫고 전기를 차단하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A heatwave warning has been issued for London, UK, with temperatures expected to reach 35°C.",
+    "output": "Stay indoors during the hottest hours, stay hydrated, and avoid strenuous outdoor activities."
+  },
+  {
+    "instruction": "시민에게 태풍 대응 조언을 제공하세요.",
+    "input": "제주도 부근에서 강력한 태풍이 발생하여 피해가 우려됩니다.",
+    "output": "외출을 삼가고, 창문을 닫고 비상품을 준비하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flash flood warning has been issued for New York City, USA, due to heavy rainfall.",
+    "output": "Avoid walking or driving through flooded areas, and seek higher ground if necessary."
+  },
+  {
+    "instruction": "시민에게 산불 대응 조언을 제공하세요.",
+    "input": "호주 시드니 근처에서 대규모 산불이 발생하여 주변 지역에 연기가 퍼지고 있습니다.",
+    "output": "산불 경보를 주시하고, 즉시 대피하거나 소방당국에 연락하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A volcanic eruption has occurred in Hawaii, leading to ashfall and toxic gas emissions.",
+    "output": "Stay indoors with windows and doors closed, and listen to local authorities for updates."
+  },
+  {
+    "instruction": "시민에게 지진 대응 조언을 제공하세요.",
+    "input": "일본 오사카에서 강진이 발생하여 건물에 손상이 발생했습니다.",
+    "output": "안전한 장소로 대피하고, 급발진을 피하며 건물 내부에 계신다면 보호자에게 연락하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A typhoon is approaching the coast of Busan, with strong winds and heavy rain expected.",
+    "output": "Avoid the coast and secure windows to prepare for evacuation."
+  },
+  {
+    "instruction": "시민에게 지진 대비 안전 조치를 안내하세요.",
+    "input": "서울 지역에서 규모 5.0의 지진이 발생했습니다. 여진이 예상됩니다.",
+    "output": "안전한 장소로 이동하고 무리하지 말고 대피 준비를 하세요."
+  },
+  {
+    "instruction": "Provide safety tips for citizens in case of wildfires.",
+    "input": "A wildfire is spreading rapidly in a forested area near a residential neighborhood.",
+    "output": "Evacuate immediately and follow the designated evacuation routes."
+  },
+  {
+    "instruction": "시민에게 산불 대응을 위한 안전 조치를 안내하세요.",
+    "input": "산림에서 산불이 발생하여 주변 주민들이 대피하고 있습니다.",
+    "output": "가까운 안전 지역으로 이동하고 119에 신고하세요."
+  },
+  {
+    "instruction": "Give advice to citizens on coping with extreme heat.",
+    "input": "A heatwave is hitting the city with temperatures exceeding 40 degrees Celsius.",
+    "output": "Stay hydrated, avoid outdoor activities, and seek shade or air-conditioned places."
+  },
+  {
+    "instruction": "시민에게 폭염 대비를 위한 조언을 제공하세요.",
+    "input": "날씨 예보에 따르면 이번 주 도시는 열파가 예상됩니다. 온도가 35도 이상이 될 것으로 보입니다.",
+    "output": "물을 충분히 섭취하고, 외부 활동을 피하며 그늘이나 에어컨이 있는 장소를 찾으세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major earthquake has struck Tokyo, causing widespread damage to buildings and infrastructure.",
+    "output": "Seek shelter in a safe location and stay away from damaged structures."
+  },
+  {
+    "instruction": "재난 상황에서 시민에게 경고를 제공하세요.",
+    "input": "서울 지역에서 대형 산불이 발생하고 있으며, 화재가 빠르게 확산 중입니다.",
+    "output": "즉시 안전한 장소로 대피하고, 화재 발생 지역을 피하세요."
+  },
+  {
+    "instruction": "Offer disaster response guidance to the public.",
+    "input": "A severe flood warning has been issued for the Mississippi River, with water levels rising rapidly.",
+    "output": "Evacuate to higher ground and avoid driving through flooded areas."
+  },
+  {
+    "instruction": "시민에게 재난 상황에 대한 조언을 제공하세요.",
+    "input": "A typhoon is approaching Okinawa, with strong winds and heavy rain expected to hit the region.",
+    "output": "Secure outdoor objects, stay indoors, and prepare emergency supplies."
+  },
+  {
+    "instruction": "Give citizens advice on disaster response.",
+    "input": "Severe heatwave warning issued for Los Angeles area, with temperatures exceeding 100°F.",
+    "output": "Stay hydrated, avoid prolonged sun exposure, and check on vulnerable individuals."
+  },
+  {
+    "instruction": "재난 대응을 위한 시민에게 지침을 제공하세요.",
+    "input": "A massive tsunami warning has been issued for the coastal areas of Hawaii, following an undersea earthquake.",
+    "output": "Move to higher ground immediately and follow evacuation routes."
+  },
+  {
+    "instruction": "Provide warning to citizens in disaster situations.",
+    "input": "Wildfires have broken out in the Australian outback, threatening nearby communities.",
+    "output": "Follow evacuation orders, stay informed, and be prepared to flee at short notice."
+  },
+  {
+    "instruction": "시민에게 재난 상황 대응을 위한 조언을 제공하세요.",
+    "input": "A major flood has submerged parts of New Orleans, leading to road closures and power outages.",
+    "output": "Stay indoors, avoid flooded areas, and listen to local authorities for updates."
+  },
+  {
+    "instruction": "Offer guidance to citizens on disaster response.",
+    "input": "A forest fire has erupted in California, with strong winds spreading the flames rapidly.",
+    "output": "Evacuate immediately and take essential belongings with you."
+  },
+  {
+    "instruction": "Give citizens advice on disaster response.",
+    "input": "A category 4 hurricane is forecasted to make landfall in Florida, bringing destructive winds and storm surge.",
+    "output": "Secure windows and doors, stock up on supplies, and evacuate if instructed to do so."
+  },
+  {
+    "instruction": "재난 대응을 위한 시민에게 경고를 제공하세요.",
+    "input": "Seoul is experiencing a record-breaking heatwave, with temperatures soaring above 40°C.",
+    "output": "Stay indoors, use air conditioning, and stay hydrated to prevent heat-related illnesses."
+  },
+  {
+    "instruction": "Provide warning to citizens in disaster situations.",
+    "input": "A strong earthquake has struck the central region of Chile, causing buildings to collapse and roads to crack.",
+    "output": "Take cover under sturdy furniture, avoid elevators, and be prepared for aftershocks."
+  },
+  {
+    "instruction": "시민에게 재난 상황에 대한 조언을 제공하세요.",
+    "input": "A flash flood warning has been issued for the mountainous regions of Colorado, with heavy rainfall expected.",
+    "output": "Avoid camping near rivers, seek higher ground, and stay alert for sudden rising water levels."
+  },
+  {
+    "instruction": "Offer disaster response guidance to the public.",
+    "input": "A volcanic eruption has occurred in Iceland, spewing ash clouds into the atmosphere and disrupting air travel.",
+    "output": "Stay indoors, wear masks outdoors, and follow updates from local authorities."
+  },
+  {
+    "instruction": "Give citizens advice on disaster response.",
+    "input": "A major blizzard is forecasted to hit the Midwest, with snowfall rates of up to 2 inches per hour.",
+    "output": "Stay off roads, stock up on food and supplies, and keep emergency kits handy."
+  },
+  {
+    "instruction": "재난 대응을 위한 시민에게 지침을 제공하세요.",
+    "input": "A tsunami advisory has been issued for coastal regions of Japan, following a 7.0 magnitude earthquake offshore.",
+    "output": "Move to higher ground, do not return to the coast until the all-clear is given."
+  },
+  {
+    "instruction": "Provide warning to citizens in disaster situations.",
+    "input": "Heavy rainfall has triggered landslides in the Himalayan region, blocking major highways and causing power outages.",
+    "output": "Avoid low-lying areas, evacuate if necessary, and stay away from unstable slopes."
+  },
+  {
+    "instruction": "시민에게 재난 대응을 위한 조언을 제공하세요.",
+    "input": "A severe thunderstorm warning has been issued for the Midwest, with hail and strong winds expected.",
+    "output": "Seek shelter indoors, stay away from windows, and unplug electronic devices."
+  },
+  {
+    "instruction": "Offer guidance to citizens on disaster response.",
+    "input": "A wildfire has broken out in the Amazon rainforest, threatening indigenous communities and wildlife habitats.",
+    "output": "Follow evacuation orders, protect airways with masks, and assist in rescue efforts if possible."
+  },
+  {
+    "instruction": "Give citizens advice on disaster response.",
+    "input": "A category 5 hurricane is approaching the Gulf Coast, with storm surges predicted to reach up to 15 feet.",
+    "output": "Evacuate inland, secure important documents, and stay informed through emergency broadcasts."
+  },
+  {
+    "instruction": "재난 대응을 위한 시민에게 경고를 제공하세요.",
+    "input": "Tokyo is under a flood advisory, with heavy rain causing rivers to overflow and streets to flood.",
+    "output": "Avoid walking or driving through flooded areas, seek higher ground if necessary."
+  },
+  {
+    "instruction": "Provide warning to citizens in disaster situations.",
+    "input": "A major earthquake has struck the west coast of Mexico, triggering tsunami warnings along the Pacific coastline.",
+    "output": "Move to higher ground, do not approach the shore, and listen to emergency broadcasts."
+  },
+  {
+    "instruction": "시민에게 재난 상황에 대한 조언을 제공하세요.",
+    "input": "A heatwave advisory has been issued for Sydney, with temperatures reaching dangerous levels above 45°C.",
+    "output": "Stay hydrated, limit outdoor activities, and check on elderly neighbors."
+  },
+  {
+    "instruction": "Offer disaster response guidance to the public.",
+    "input": "A volcanic ash cloud has grounded flights in Hawaii, affecting travel plans for thousands of tourists.",
+    "output": "Stay indoors, cover mouth and nose with a mask, and monitor air quality updates."
+  },
+  {
+    "instruction": "Give citizens advice on disaster response.",
+    "input": "A blizzard warning has been issued for the Northeast, with snow accumulations of up to 2 feet expected.",
+    "output": "Stay indoors, keep warm, and avoid unnecessary travel until conditions improve."
+  },
+  {
+    "instruction": "재난 대응을 위한 시민에게 지침을 제공하세요.",
+    "input": "A storm surge warning has been issued for the Caribbean islands, with coastal areas at risk of flooding.",
+    "output": "Evacuate coastal zones, seek shelter in sturdy buildings, and stay away from the shoreline."
+  },
+  {
+    "instruction": "Provide warning to citizens in disaster situations.",
+    "input": "Heavy snowfall has caused avalanches in the Swiss Alps, trapping skiers and hikers on mountain slopes.",
+    "output": "Stay in designated safe areas, avoid steep terrain, and await rescue teams."
+  },
+  {
+    "instruction": "시민에게 재난 대응을 위한 조언을 제공하세요.",
+    "input": "A tornado watch has been issued for the Midwest, with severe thunderstorms and rotating clouds reported.",
+    "output": "Take shelter in a basement or interior room, away from windows and doors."
+  },
+  {
+    "instruction": "Offer guidance to citizens on disaster response.",
+    "input": "A mudslide has occurred in California, burying homes and blocking roads in mountainous regions.",
+    "output": "Evacuate if in danger, move to higher ground, and heed evacuation orders."
+  },
+  {
+    "instruction": "Give citizens advice on disaster response.",
+    "input": "A tropical cyclone is approaching the Philippines, with strong winds and heavy rainfall expected to cause flooding.",
+    "output": "Secure loose objects, stay indoors, and prepare emergency supplies and evacuation kits."
+  },
+  {
+    "instruction": "재난 대응을 위한 시민에게 경고를 제공하세요.",
+    "input": "London is facing a severe cold snap, with temperatures dropping below freezing and icy conditions on roads.",
+    "output": "Stay indoors, dress warmly, and drive with caution on icy roads."
+  },
+  {
+    "instruction": "Provide warning to citizens in disaster situations.",
+    "input": "A wildfire has broken out in the forests of British Columbia, threatening wildlife and causing air quality concerns.",
+    "output": "Follow evacuation orders, protect airways with masks, and stay informed through local news updates."
+  },
+  {
+    "instruction": "시민에게 재난 상황에 대한 조언을 제공하세요.",
+    "input": "A flash flood has swept through low-lying areas of Mumbai, submerging homes and displacing residents.",
+    "output": "Move to higher ground, avoid flooded areas, and seek shelter in safe locations."
+  },
+  {
+    "instruction": "Offer disaster response guidance to the public.",
+    "input": "A volcanic eruption is underway in New Zealand, with ash clouds and lava flows endangering nearby communities.",
+    "output": "Stay indoors, close windows and doors, and monitor updates from civil defense authorities."
+  },
+  {
+    "instruction": "Give citizens advice on disaster response.",
+    "input": "A blizzard is forecasted to hit the Canadian Rockies, with heavy snowfall and whiteout conditions expected.",
+    "output": "Stay indoors, keep warm, and have emergency supplies on hand in case of power outages."
+  },
+  {
+    "instruction": "재난 대응을 위한 시민에게 지침을 제공하세요.",
+    "input": "A storm surge warning has been issued for the coastal areas of Louisiana, with flooding expected due to a tropical storm.",
+    "output": "Evacuate low-lying areas, secure property, and seek shelter in designated evacuation centers."
+  },
+  {
+    "instruction": "Provide warning to citizens in disaster situations.",
+    "input": "A major earthquake has struck the island of Java, triggering landslides and collapsing buildings.",
+    "output": "Stay in open areas away from buildings, avoid damaged structures, and be prepared for aftershocks."
+  },
+  {
+    "instruction": "시민에게 재난 대응을 위한 조언을 제공하세요.",
+    "input": "A heatwave advisory has been issued for Paris, with temperatures soaring above 40°C and heat-related illnesses on the rise.",
+    "output": "Stay hydrated, stay in shaded areas, and check on vulnerable individuals in the community."
+  },
+  {
+    "instruction": "Offer guidance to citizens on disaster response.",
+    "input": "A wildfire has broken out in the forests of California, leading to evacuations and road closures.",
+    "output": "Follow evacuation orders, stay informed through official channels, and assist neighbors in need."
+  },
+  {
+    "instruction": "Give citizens advice on disaster response.",
+    "input": "A category 3 hurricane is approaching the Bahamas, with storm surges and high winds expected to cause widespread damage.",
+    "output": "Secure property, stock up on essentials, and evacuate if instructed by authorities."
+  },
+  {
+    "instruction": "재난 대응을 위한 시민에게 경고를 제공하세요.",
+    "input": "Sydney is under a bushfire alert, with strong winds and dry conditions fueling the spread of wildfires in the region.",
+    "output": "Stay informed, follow evacuation orders, and prepare to defend property if necessary."
+  },
+  {
+    "instruction": "Provide warning to citizens in disaster situations.",
+    "input": "A flash flood has occurred in the valleys of Switzerland, leading to road closures and stranded vehicles.",
+    "output": "Avoid driving through flooded areas, seek higher ground, and stay tuned to weather updates."
+  },
+  {
+    "instruction": "시민에게 재난 상황에 대한 조언을 제공하세요.",
+    "input": "A severe thunderstorm warning has been issued for the plains of Kansas, with hail and strong winds expected.",
+    "output": "Take shelter indoors, stay away from windows, and unplug electronic devices during the storm."
+  },
+  {
+    "instruction": "Offer disaster response guidance to the public.",
+    "input": "A volcanic eruption has occurred in Hawaii, with lava flows threatening residential areas and causing evacuations.",
+    "output": "Stay away from lava flows, follow evacuation routes, and heed instructions from emergency services."
+  },
+  {
+    "instruction": "Give citizens advice on disaster response.",
+    "input": "A blizzard is forecasted to hit the Great Lakes region, with snow accumulations of up to 3 feet expected.",
+    "output": "Stay indoors, keep warm, and have emergency supplies ready in case of power outages."
+  },
+  {
+    "instruction": "재난 대응을 위한 시민에게 지침을 제공하세요.",
+    "input": "A storm surge warning has been issued for the coastal areas of Florida, with high tides and strong winds expected due to a tropical storm.",
+    "output": "Evacuate low-lying areas, secure outdoor objects, and seek shelter in designated evacuation centers."
+  },
+  {
+    "instruction": "Provide warning to citizens in disaster situations.",
+    "input": "A major earthquake has struck the island of Sumatra, triggering tsunamis and aftershocks.",
+    "output": "Move to higher ground, do not approach the shore, and stay alert for emergency alerts."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tsunami warning has been issued for the coastal areas of Japan after a powerful earthquake struck off the coast.",
+    "output": "Move to higher ground immediately and follow evacuation orders."
+  },
+  {
+    "instruction": "시민에게 재난 상황 대비를 안내하세요.",
+    "input": "서울 지역에서 호우주의보가 발령되었습니다. 강한 비가 계속되고 있습니다.",
+    "output": "가능한 실내로 이동하고, 침수 위험이 있는 지역을 피하세요."
+  },
+  {
+    "instruction": "Provide guidance on disaster response to citizens.",
+    "input": "A wildfire is spreading rapidly in California, forcing evacuations in several areas.",
+    "output": "Follow evacuation orders immediately and stay informed through official channels."
+  },
+  {
+    "instruction": "시민들에게 대피 조치를 권고하세요.",
+    "input": "대구 지역에서 강한 지진이 발생했습니다. 여러 건물이 피해를 입었습니다.",
+    "output": "안전한 장소로 대피하고, 부상자를 신속하게 구조해주세요."
+  },
+  {
+    "instruction": "Offer advice on disaster preparedness to citizens.",
+    "input": "A heatwave warning has been issued for several states in Australia, with temperatures expected to soar above 40 degrees Celsius.",
+    "output": "Stay indoors during peak heat hours and stay hydrated to avoid heat-related illnesses."
+  },
+  {
+    "instruction": "시민들에게 재난 상황 대응을 안내하세요.",
+    "input": "제주도 근해에서 강력한 태풍이 발생하여 강풍과 호우가 예상됩니다.",
+    "output": "외출을 삼가고, 필요한 물품과 식량을 비축하여 대비하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tsunami warning has been issued for the coastal areas of Busan, with a magnitude 7.0 earthquake detected offshore.",
+    "output": "Evacuate to higher ground immediately and stay away from the coast."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 대형 홍수 특보가 발령되었습니다. 하천 주변 지역은 침수 우려가 있습니다.",
+    "output": "주변 하천을 피하고 안전한 고지대로 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A wildfire has broken out in the mountains near Los Angeles, with strong winds spreading the flames rapidly.",
+    "output": "Evacuate the area immediately and follow instructions from emergency personnel."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "부산 해안에 태풍이 접근하고 있으며, 강풍과 폭우가 예상됩니다.",
+    "output": "해안 접근을 삼가고, 창문을 고정하여 대피 준비를 하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "An extreme heatwave is forecasted for the Phoenix area, with temperatures reaching over 110 degrees Fahrenheit.",
+    "output": "Stay indoors, stay hydrated, and avoid strenuous outdoor activities during the peak heat hours."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "일본 해안에서 강력한 지진이 발생하였으며, 쓰나미 경보가 발령되었습니다.",
+    "output": "가까이에 있는 해안을 떠나 안전한 장소로 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A massive earthquake with a magnitude of 7.5 has struck Tokyo, Japan, causing buildings to collapse and widespread panic among the residents.",
+    "output": "Stay calm, take cover under sturdy furniture, and be prepared for aftershocks. Follow evacuation orders if issued."
+  },
+  {
+    "instruction": "재난 상황에 대한 안전 조치를 안내하세요.",
+    "input": "서울 지역에서 산불이 발생하여 빠르게 번지고 있습니다. 주변 주민들이 대피하고 있습니다.",
+    "output": "가까운 안전 지역으로 이동하고, 숲이나 건물 주변을 피하세요. 불을 직접 끄려고 하지 마세요."
+  },
+  {
+    "instruction": "Provide guidance on disaster response to the public.",
+    "input": "There is a severe heatwave warning issued for Los Angeles, with temperatures expected to soar above 100 degrees Fahrenheit.",
+    "output": "Stay indoors in air-conditioned spaces, drink plenty of water, and avoid strenuous outdoor activities during the hottest part of the day."
+  },
+  {
+    "instruction": "시민에게 홍수 대비 안전 수칙을 알려주세요.",
+    "input": "서울 시내 지역에서 강우량이 급증하여 하천 수위가 급격히 상승하고 있습니다. 주민들이 긴급 대피를 진행 중입니다.",
+    "output": "주변 하천이나 저지대를 피하고, 고지대로 이동하세요. 비상 연락망을 확인하고 대피 지시에 따르세요."
+  },
+  {
+    "instruction": "Guide the public on disaster preparedness measures.",
+    "input": "A typhoon is approaching the coastal areas of Okinawa, Japan, with strong winds and heavy rainfall expected to cause flooding and landslides.",
+    "output": "Secure loose objects outdoors, stay away from coastal areas, and prepare an emergency kit with essentials like food, water, and first aid supplies."
+  },
+  {
+    "instruction": "Provide safety advice for citizens in case of a wildfire.",
+    "input": "A wildfire has broken out in the mountains near Vancouver, Canada, spreading rapidly due to dry conditions and high winds.",
+    "output": "Evacuate immediately if instructed, close all windows and doors, and keep important documents and valuables ready for evacuation."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tsunami warning has been issued for the coastal areas of Jeju Island.",
+    "output": "Evacuate to higher ground immediately and follow instructions from local authorities."
+  },
+  {
+    "instruction": "시민에게 지진 대비 조언을 제공하세요.",
+    "input": "서울 지역에서 강도 5.0의 지진이 발생했습니다.",
+    "output": "안전한 장소로 이동하고, 가스 및 전기를 차단하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A wildfire has broken out in the forest near a residential area.",
+    "output": "Evacuate the area immediately and avoid inhaling smoke."
+  },
+  {
+    "instruction": "시민에게 폭염 대비 지침을 전하세요.",
+    "input": "이번 주 동해안 지역에서 35도 이상의 높은 기온이 예상됩니다.",
+    "output": "물을 충분히 섭취하고, 외출 시 모자와 선크림을 사용하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "Heavy rainfall is causing flooding in low-lying areas of Gyeonggi Province.",
+    "output": "Avoid driving through flooded areas and seek higher ground if necessary."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "전남 지역에서 강한 바람과 호우가 발생하고 있습니다.",
+    "output": "야외 활동을 삼가고, 특히 강가와 절벽을 피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "An earthquake with a magnitude of 6.5 has struck the eastern region of South Korea.",
+    "output": "Take cover under a sturdy piece of furniture and stay away from windows."
+  },
+  {
+    "instruction": "시민에게 태풍 대비 조언을 제공하세요.",
+    "input": "제주도 해안 지역에서 강력한 바람과 빗방울이 몰고 오고 있습니다.",
+    "output": "외출을 삼가고, 창문을 닫아 바람 피하고 대비용품을 확인하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A heatwave warning has been issued for Seoul and surrounding areas.",
+    "output": "Stay indoors during peak sun hours and keep hydrated."
+  },
+  {
+    "instruction": "시민에게 산불 대비 조언을 제공하세요.",
+    "input": "산림에서 산불이 발생하여 주변 주택에 피해가 우려됩니다.",
+    "output": "포화된 장소에서 떨어져 있고, 대피 지시에 따르세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A typhoon is approaching the coast of Busan, with strong winds and heavy rain expected.",
+    "output": "Avoid the coast and secure your windows to prepare for evacuation."
+  },
+  {
+    "instruction": "시민에게 홍수 대비 조언을 제공하세요.",
+    "input": "서울 지역에서 갑작스러운 폭우로 인해 하천 수위가 급격히 상승하고 있습니다.",
+    "output": "가까운 안전한 고지대로 대피하고, 비상용품을 챙기세요."
+  },
+  {
+    "instruction": "Provide earthquake safety tips to citizens.",
+    "input": "An earthquake with a magnitude of 5.0 has just struck Tokyo, Japan.",
+    "output": "Drop to the ground, take cover under a sturdy piece of furniture, and hold on until the shaking stops."
+  },
+  {
+    "instruction": "시민에게 산불 경고를 제공하세요.",
+    "input": "California is experiencing record high temperatures and strong winds, increasing the risk of wildfires.",
+    "output": "Stay informed about evacuation orders and have an emergency kit ready in case of evacuation."
+  },
+  {
+    "instruction": "Provide citizens with advice on dealing with extreme heat.",
+    "input": "Temperatures in Sydney have soared above 40 degrees Celsius, posing health risks to residents.",
+    "output": "Stay hydrated, avoid outdoor activities during peak sun hours, and seek shelter in air-conditioned places."
+  },
+  {
+    "instruction": "시민에게 태풍 대비 안전 조치를 제공하세요.",
+    "input": "A typhoon warning has been issued for the southern coast of Jeju Island, South Korea.",
+    "output": "Secure outdoor objects, stay indoors, and have a battery-operated radio for updates on the storm."
+  },
+  {
+    "instruction": "Provide citizens with advice on preparing for a flood.",
+    "input": "Heavy rainfall in the Amazon region has caused rivers to overflow, leading to widespread flooding.",
+    "output": "Move to higher ground, avoid flooded areas, and have a waterproof emergency kit ready."
+  },
+  {
+    "instruction": "시민에게 지진 대비 안전 수칙을 제공하세요.",
+    "input": "A series of small earthquakes have been felt in the Los Angeles area, raising concerns about a possible larger quake.",
+    "output": "Identify safe spots in each room, have an emergency plan in place, and practice 'Drop, Cover, and Hold On' drills."
+  },
+  {
+    "instruction": "Provide citizens with advice on wildfire prevention.",
+    "input": "Dry conditions and strong winds in Australia have increased the risk of bushfires in rural areas.",
+    "output": "Avoid using outdoor fires, properly dispose of cigarettes, and create a defensible space around your home."
+  },
+  {
+    "instruction": "시민에게 폭염 대비 조언을 제공하세요.",
+    "input": "Heatwave warnings have been issued for several cities in Europe, with temperatures expected to exceed 40 degrees Celsius.",
+    "output": "Stay indoors during peak heat hours, use fans or air conditioning, and check on vulnerable neighbors."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A strong earthquake has hit the capital city, causing buildings to collapse and roads to be blocked.",
+    "output": "Stay calm and take cover under a sturdy piece of furniture. Do not use elevators and evacuate the building if it is safe to do so."
+  },
+  {
+    "instruction": "재난 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 대규모 산불이 발생하고 있습니다. 화재가 빠르게 확산 중입니다.",
+    "output": "즉시 안전한 장소로 대피하고, 119에 신고해야 합니다. 불을 직접 끄려고 하지 말고 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flood warning has been issued for the coastal areas due to heavy rainfall and rising water levels in rivers.",
+    "output": "Move to higher ground immediately and avoid walking or driving through flooded areas. Follow evacuation orders if given."
+  },
+  {
+    "instruction": "재난 대응 조언을 제공하세요.",
+    "input": "A forest fire is spreading rapidly in the mountainous region, threatening nearby villages and wildlife habitats.",
+    "output": "Evacuate the area immediately and follow the instructions of emergency responders. Stay informed through official channels for updates."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A severe heatwave is forecasted for the next week, with temperatures reaching record highs in the region.",
+    "output": "Stay indoors during the hottest hours of the day, stay hydrated, and avoid strenuous outdoor activities. Check on vulnerable individuals in your community."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A strong earthquake has hit the city, causing buildings to collapse and widespread panic.",
+    "output": "Stay calm, take cover under a sturdy piece of furniture, and wait for the shaking to stop before evacuating the building."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "서울 지역에 강한 폭염이 예상되고 있으며, 온도가 40도 이상까지 치솟을 예정입니다.",
+    "output": "물을 충분히 섭취하고, 외출을 최소화하여 더위로부터 몸을 보호하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A forest fire is spreading rapidly in the mountainous region, endangering nearby villages.",
+    "output": "Evacuate immediately if instructed by authorities, and follow designated evacuation routes to a safe location."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "Heavy rainfall has caused severe flooding in low-lying areas, leading to road closures and stranded residents.",
+    "output": "Avoid driving through flooded areas, seek higher ground if necessary, and listen to local emergency alerts for updates."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A category 4 hurricane is expected to make landfall on the coastal region, bringing destructive winds and storm surges.",
+    "output": "Board up windows, stock up on essential supplies, and evacuate to a designated shelter if advised by authorities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "An emergency alert has been issued for a potential tsunami following a major undersea earthquake near the coast.",
+    "output": "Move to higher ground immediately, do not wait for official instructions, and stay away from coastal areas until the all-clear is given."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A volcanic eruption has occurred, spewing ash and toxic gases into the air, posing health risks to nearby communities.",
+    "output": "Stay indoors, close all windows and doors, and wear masks to protect yourself from inhaling ash particles."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "A major blizzard is forecasted to hit the region, bringing heavy snowfall and blustery winds.",
+    "output": "Stay indoors, avoid unnecessary travel, and keep emergency supplies such as blankets, food, and water handy in case of power outages."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flash flood warning has been issued for the area due to rapid melting of snow and heavy rainfall.",
+    "output": "Move to higher ground immediately, do not attempt to cross flooded roads, and stay tuned to local news for updates on the situation."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "A severe thunderstorm is approaching with the potential for hail, strong winds, and lightning strikes.",
+    "output": "Seek shelter indoors, stay away from windows, and unplug electronic devices to prevent damage from power surges."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A powerful earthquake with a magnitude of 6.5 has hit the city of Tokyo.",
+    "output": "Take cover under a sturdy piece of furniture and stay away from windows and heavy objects."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "서울 지역에서 호우주의보가 발령되었습니다. 강한 비바람과 홍수 피해가 우려됩니다.",
+    "output": "가능한 실내로 대피하고, 침수 가능 지역을 피하세요. 비상용품과 식량을 준비하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A wildfire is spreading rapidly in the forests near Los Angeles, threatening nearby communities.",
+    "output": "Evacuate immediately if instructed and follow the designated evacuation routes. Stay updated through official channels."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "서울 지역에서 강한 폭염이 예상되며, 온열 질환 위험이 높아집니다.",
+    "output": "물을 충분히 섭취하고, 야외 활동을 자제하여 더위로부터 보호하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "Heavy rainfall has caused severe flooding in the rural areas of Texas, leading to road closures and property damage.",
+    "output": "Avoid driving through flooded areas and seek higher ground if necessary. Stay tuned for emergency updates."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "제주도 근해에서 강력한 해일이 발생했으며, 해안가 주민에게 대피 요령이 전달되고 있습니다.",
+    "output": "해안 접근을 삼가고, 안전한 고지대로 대피하여 인명 피해를 최소화하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A category 4 hurricane is approaching the Gulf Coast, with strong winds and storm surges expected.",
+    "output": "Secure your property, gather emergency supplies, and follow evacuation orders promptly to ensure safety."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "부산 지역에서 지진이 발생하였으며, 여진이 예상됩니다. 건물 구조물에 주의하세요.",
+    "output": "안전한 곳으로 대피하고, 건물 내부에서는 테이블 아래로 숨어 지진 피해를 최소화하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A heatwave is sweeping across Europe, with record-breaking temperatures causing health concerns.",
+    "output": "Stay hydrated, avoid prolonged exposure to the sun, and check on vulnerable individuals in your community."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "대구 산림에서 산불이 발생하여 광범위한 피해를 야기하고 있습니다. 주변 지역 주민에게 경계령이 발효 중입니다.",
+    "output": "산불 영향 지역을 피하고, 화재 예방을 위해 주변 화염불을 주의하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flood warning has been issued for the coastal areas of Sydney, with heavy rainfall and rising water levels expected.",
+    "output": "Move to higher ground, avoid walking or driving through floodwaters, and stay informed about evacuation routes."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "인천 해상에서 강한 바람을 동반한 태풍이 발생하여 항구 운항에 영향을 미치고 있습니다.",
+    "output": "외출을 자제하고, 배낭이나 외투 등을 확실하게 고정하여 태풍 대비를 완료하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major earthquake has struck the northern region of Chile, causing widespread destruction and loss of life.",
+    "output": "Stay alert for aftershocks, move to an open area away from buildings, and assist those in need while avoiding damaged structures."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "대전 지역에서 폭우로 인한 침수 피해가 발생하고 있으며, 급류 주의보가 발령되었습니다.",
+    "output": "침수 위험 지역을 피하고, 물에 절대 접근하지 마세요. 안전한 곳으로 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A forest fire has broken out in the mountains near Vancouver, threatening nearby communities and wildlife habitats.",
+    "output": "Follow evacuation orders, prepare a survival kit, and stay tuned to local authorities for updates on the fire's progression."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "광주 지역에서 강한 폭염이 예상되며, 열대야가 발생할 가능성이 높습니다.",
+    "output": "물을 충분히 섭취하고, 가급적 실내 활동을 유지하여 열사병을 예방하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A super typhoon with wind speeds exceeding 250 km/h is approaching the Philippines, posing a significant threat to coastal areas.",
+    "output": "Evacuate to designated shelters, secure loose objects, and stay away from beaches and low-lying areas during the storm."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "전남 해안에서 강한 바람을 동반한 태풍이 발생하여 항해 안전에 영향을 주고 있습니다.",
+    "output": "야외 활동을 삼가하고, 배낭이나 방수용품을 확인하여 태풍에 대비하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A prolonged drought in the region has led to water shortages and crop failures, impacting local agriculture and communities.",
+    "output": "Conserve water, support local farmers, and explore alternative irrigation methods to mitigate the effects of the drought."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "울산 지역에서 산사태가 발생하여 주택과 도로에 피해가 발생하였으며, 대피 지역이 마련 중입니다.",
+    "output": "산사태 위험 지역을 피하고, 산간 지역 주민에게 대피 지침을 준수하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A severe thunderstorm is forecasted to hit the Midwest, bringing damaging winds, hail, and lightning strikes.",
+    "output": "Stay indoors, away from windows, and unplug electronic devices to prevent damage from lightning strikes. Avoid flooded areas."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "강원도 산악지대에서 산불이 발생하여 산림 피해가 우려되고 있습니다. 주변 지역 주민에게 주의 요망이 전달 중입니다.",
+    "output": "산불 영향 지역을 피하고, 산림 보호를 위해 화재 예방에 협조하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flash flood warning has been issued for the coastal regions of Florida, with heavy rainfall and storm surges expected.",
+    "output": "Seek higher ground immediately, avoid walking or driving through floodwaters, and heed evacuation orders from local authorities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "대전 해안에서 강한 파도와 해일이 예상되어 해상 안전에 영향을 미칠 수 있습니다.",
+    "output": "해안 접근을 자제하고, 바다에 출몰하지 마세요. 안전한 곳으로 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A volcanic eruption has occurred in Hawaii, spewing ash and lava into the surrounding areas, prompting evacuations.",
+    "output": "Follow evacuation orders, cover your nose and mouth with a mask, and stay indoors to avoid ashfall and toxic gases."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "전북 지역에서 지진이 발생하여 건물 피해가 발생하였으며, 여진이 예상됩니다.",
+    "output": "건물 내부로 대피하고, 안전한 곳에서 지진이 진정될 때까지 대기하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A blizzard warning has been issued for the northern states, with heavy snowfall and strong winds expected to cause dangerous conditions.",
+    "output": "Stay indoors, avoid unnecessary travel, and keep emergency supplies like food, water, and blankets readily available."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "경남 지역에서 강한 폭풍우가 발생하여 피해를 야기하였으며, 급류 경보가 발령 중입니다.",
+    "output": "급류 위험 지역을 피하고, 수해 예방을 위해 안전한 곳으로 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A mudslide has occurred in the mountainous region of Peru, destroying homes and blocking roads, trapping residents.",
+    "output": "Stay alert for further mudslide risks, evacuate to higher ground, and assist neighbors in need while avoiding unstable areas."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "강원도 해안에서 강한 파도가 예상되어 해상 안전에 주의가 요구됩니다.",
+    "output": "바다로의 접근을 자제하고, 파도에 휩쓸리지 않도록 안전한 곳으로 이동하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tornado has touched down in the rural areas of Oklahoma, causing extensive damage to homes and infrastructure.",
+    "output": "Seek shelter in a basement or interior room, away from windows, and cover yourself with a mattress or heavy blankets for protection."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "울산 해안에서 강한 파도와 바람이 예상되어 해상 안전에 주의가 요구됩니다.",
+    "output": "해안 접근을 삼가고, 파도에 휘말리지 않도록 안전한 곳으로 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A severe hailstorm has hit the farmlands of Kansas, damaging crops and vehicles, with hailstones the size of golf balls reported.",
+    "output": "Seek shelter indoors, protect vehicles from damage, and wait for the storm to pass before assessing any potential harm."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "대구 해안에서 강한 파도와 해일이 예상되어 해상 안전에 영향을 미칠 수 있습니다.",
+    "output": "바다로의 접근을 자제하고, 안전한 곳으로 대피하여 해상 재난을 최소화하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tropical cyclone is forming in the Pacific Ocean, with the potential to strengthen into a hurricane and impact coastal areas.",
+    "output": "Prepare an emergency kit, secure loose objects, and stay informed about evacuation orders and shelter locations."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "강원도 산악지대에서 산사태가 발생하여 교통 통제와 주택 침수가 발생하였습니다.",
+    "output": "산사태 피해 지역을 피하고, 안전한 지역으로 대피하여 안전을 유지하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tsunami warning has been issued for the coastal regions of Indonesia following a powerful undersea earthquake.",
+    "output": "Move to higher ground immediately, heed evacuation orders, and stay away from the coastline until authorities declare it safe."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "인천 해안에서 강한 파도와 해일이 예상되어 해안 안전에 주의가 요구됩니다.",
+    "output": "바다로의 접근을 자제하고, 안전한 곳으로 대피하여 해상 재난을 최소화하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A winter storm is approaching the northeastern states, bringing heavy snowfall and icy conditions that can lead to power outages.",
+    "output": "Stay indoors, keep warm clothing and blankets ready, and avoid travel unless absolutely necessary during the storm."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "울산 지역에서 강한 폭염이 예상되며, 열폭증후군 발생 위험이 높아집니다.",
+    "output": "물을 충분히 섭취하고, 실내 활동을 유지하여 열사병을 예방하고 안전을 유지하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major flood has inundated several neighborhoods in New Orleans, prompting rescues via boats and helicopters.",
+    "output": "Follow evacuation orders, stay on rooftops if trapped, and signal for help using bright colors or lights."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "부산 해안에서 강한 파도와 해일이 예상되어 해안 안전에 주의가 요구됩니다.",
+    "output": "바다로의 접근을 자제하고, 안전한 곳으로 대피하여 해상 재난을 최소화하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A magnitude 7.0 earthquake has struck the city of Tokyo, causing widespread damage to buildings and infrastructure.",
+    "output": "Stay calm and take cover under a sturdy table or desk. Be prepared for aftershocks and evacuate to an open area if necessary."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 강한 호우가 예상되고 있습니다. 하천 주변 지역은 침수 우려가 있습니다.",
+    "output": "침수 위험이 있는 지역을 피하고 안전한 고지대로 대피하세요. 비상용품을 확인하고 대비하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A forest fire has broken out in the mountains near Los Angeles, with strong winds spreading the flames rapidly.",
+    "output": "Evacuate immediately if you are in the affected area. Follow evacuation orders and move to a safe location away from the fire."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "부산 해안에 태풍이 접근하고 있으며, 강풍과 폭우가 예상됩니다.",
+    "output": "해안 접근을 삼가고, 창문을 고정하여 대피 준비를 하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "Extreme heatwave warning issued for Phoenix, with temperatures expected to reach 110°F (43°C) in the coming days.",
+    "output": "Stay indoors during the hottest part of the day. Drink plenty of water and avoid strenuous outdoor activities to prevent heat-related illnesses."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "대전 지역에서 지진 경보가 발령되었습니다. 건물 구조물에 피해가 우려됩니다.",
+    "output": "계단이나 엘리베이터를 이용하여 빠르게 건물을 탈출하고 안전한 공간으로 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "Tropical storm approaching the coast of Miami, with heavy rainfall and strong winds expected to cause flooding and power outages.",
+    "output": "Secure loose outdoor objects, stock up on emergency supplies, and stay tuned to local weather updates. Follow evacuation orders if issued."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "서울 근교에서 대규모 산불이 발생하였으며, 빠르게 확산 중입니다.",
+    "output": "산불이 접근하면 빠르게 대피하고, 119에 신고하여 화재진압을 도와주세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "Flash flood warning issued for Houston area, with heavy rain causing rapid rise in water levels in rivers and creeks.",
+    "output": "Avoid driving through flooded roads and seek higher ground if you are in a low-lying area. Stay indoors and monitor local news for updates."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "제주도 근해에서 강한 해일이 발생할 예상이며, 해안가 주민에게 경보가 발령되었습니다.",
+    "output": "해안가를 떠나 안전한 고지대로 대피하고, 해일 피해를 최소화하기 위한 대비를 완료하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A massive earthquake has hit the city, causing buildings to collapse and roads to be blocked.",
+    "output": "Stay calm and seek shelter in an open area away from buildings. Check for injuries and help others if possible."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "서울 지역에 호우주의보가 발령되었으며, 강한 비가 계속 예상됩니다.",
+    "output": "가능한 외출을 삼가고, 침수되지 않도록 하우스를 정비하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A wildfire has broken out in the forest near a residential area, spreading rapidly due to strong winds.",
+    "output": "Evacuate immediately and follow evacuation orders. Do not return home until authorities declare it safe."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "대구 지역에 강한 폭염 경보가 발령되었으며, 온도가 40도 이상으로 치솟습니다.",
+    "output": "외출을 피하고 물을 충분히 섭취하여 탈수를 방지하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A flash flood warning has been issued for a nearby river, with water levels rising rapidly.",
+    "output": "Move to higher ground immediately and avoid walking or driving through floodwaters."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "제주도 상공에 강한 바람을 동반한 태풍이 발생하고 있습니다. 항공편 운항에 영향이 있습니다.",
+    "output": "외출을 자제하고, 밖에서는 안전한 장소로 이동하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "An extreme heatwave is expected to hit the region, with temperatures reaching record highs.",
+    "output": "Stay indoors in air-conditioned places, drink plenty of water, and avoid strenuous outdoor activities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "경기도 일대에 산불이 발생하였으며, 바람이 심하게 부는 상황입니다.",
+    "output": "지정된 대피소로 이동하고, 화재를 유발할 수 있는 행동을 삼가하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tsunami warning has been issued for coastal areas, with the possibility of a strong earthquake triggering it.",
+    "output": "Move inland to higher ground immediately and stay tuned to official updates for further instructions."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "인천 항구 근처 해상에서 대형 선박이 전복되었으며, 해상 구조 작업이 진행 중입니다.",
+    "output": "해상 안전에 유의하고, 구조 작업에 방해가 되지 않도록 주의하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major volcanic eruption has occurred in a nearby mountain range, spewing ash and toxic gases into the air.",
+    "output": "Stay indoors, close all windows and doors, and wear a mask if venturing outside. Follow evacuation orders if given."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "전남 지역에서 강한 지진이 발생하였으며, 여러 건물이 피해를 입었습니다.",
+    "output": "안전한 장소로 대피하고, 건물이나 구조물 주변을 피해하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major blizzard is expected to hit the region, with heavy snowfall and strong winds causing whiteout conditions.",
+    "output": "Stay indoors, keep warm, and avoid unnecessary travel. Check on vulnerable neighbors and pets."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "대전 지역에서 대규모 홍수 피해가 발생하였으며, 급격한 상승수위로 인해 주택이 침수되고 있습니다.",
+    "output": "비상대피소로 이동하고, 침수 위험이 있는 지역을 피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major hailstorm is approaching, with large hailstones expected to cause damage to cars and buildings.",
+    "output": "Park your car in a covered area, stay indoors, and away from windows. Protect yourself from potential injuries."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "강원도 일대에서 강한 태풍이 예상되며, 해안가 주변에서는 해일이 우려됩니다.",
+    "output": "해안가를 피하고 안전한 지역으로 대피하여 주세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major dust storm is sweeping through the region, reducing visibility and causing respiratory issues.",
+    "output": "Stay indoors, close windows and doors, and use air purifiers if available. Avoid outdoor activities until the storm passes."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "충남 지역에서 산사태가 발생하였으며, 산악지대와 주변 도로가 막히고 있습니다.",
+    "output": "산사태 발생지역을 피하고, 안전한 곳으로 이동하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major power outage has occurred in the city, affecting thousands of households and businesses.",
+    "output": "Conserve battery power on your devices, use flashlights instead of candles, and check on neighbors who may need assistance."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "광주 지역에서 대량의 쓰레기가 폐기물 처리장에서 불을 일으켰으며, 유독가스가 발생 중입니다.",
+    "output": "외부 환기를 통해 공기를 순환시키고, 유독가스 침출지역을 피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major chemical spill has occurred near a residential area, releasing toxic fumes into the air.",
+    "output": "Evacuate immediately, follow designated evacuation routes, and seek medical attention if experiencing symptoms of exposure."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "전북 지역에서 대규모 화학 유출 사고가 발생하였으며, 유해물질의 흡입이 우려됩니다.",
+    "output": "즉시 대피하고, 지정된 대피로를 따르며, 유해물질에 노출되지 않도록 주의하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major cyber attack has targeted critical infrastructure, disrupting essential services and communication networks.",
+    "output": "Avoid clicking on suspicious links or emails, update your security software, and report any unusual online activities to authorities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "울산 항구 근처에서 해양 유출 사고가 발생하였으며, 해안가와 해양 생태계에 피해를 입힐 우려가 있습니다.",
+    "output": "해안가를 피하고, 해양 생태계 보호를 위해 자제하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major outbreak of a contagious disease has been reported in the area, with a rapid increase in cases.",
+    "output": "Practice good hygiene, wear masks in public places, and follow health guidelines to prevent the spread of the disease."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "세종시 일대에서 대규모 전염병 발병이 보고되었으며, 환자 수가 급증하고 있습니다.",
+    "output": "마스크를 착용하고, 사람이 많이 모이는 장소를 피하며, 손 세정을 꾸준히 실천하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major terrorist attack has occurred in a crowded public place, causing panic and casualties.",
+    "output": "Stay vigilant, report any suspicious activities to authorities, and follow evacuation protocols if necessary."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "대전 지하철에서 의문의 가스 누출 사고가 발생하였으며, 승객들이 응급상황을 호소하고 있습니다.",
+    "output": "역사를 즉시 대피하고, 응급출동을 요청하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major environmental pollution incident has contaminated the water supply, posing health risks to the community.",
+    "output": "Boil water before drinking, avoid using tap water for cooking, and seek medical attention if experiencing symptoms of contamination."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "광주 일대에서 미세먼지 농도가 상승하고 있으며, 호흡기 질환자에게 유해한 수치를 초과하고 있습니다.",
+    "output": "외출을 자제하고, 마스크를 착용하여 호흡기 보호를 실천하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major nuclear power plant accident has occurred, releasing radioactive material into the environment.",
+    "output": "Follow evacuation orders, stay indoors, and seal windows and doors to minimize exposure to radiation."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "경기도 일대에서 원전 폭발 사고가 발생하였으며, 방사능 물질이 유출되었습니다.",
+    "output": "즉시 대피하고, 방사능 오염을 최소화하기 위해 안전한 장소로 이동하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major air crash has occurred near a residential area, with debris scattered over a wide area.",
+    "output": "Avoid the crash site, follow emergency responders' instructions, and stay away from downed power lines."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "제주도 공항에서 비행기 추락 사고가 발생하였으며, 생존자 구조 작업이 진행 중입니다.",
+    "output": "구조 작업에 방해가 되지 않도록 안전거리를 유지하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major train derailment has occurred, causing multiple cars to overturn and spill hazardous materials.",
+    "output": "Avoid the derailment site, follow evacuation orders, and seek medical attention if exposed to hazardous substances."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "강원도 일대에서 기차 탈선 사고가 발생하였으며, 유해물질이 유출되어 있습니다.",
+    "output": "탈선 지역을 피하고, 대피 지시에 따르며, 유해물질에 노출되지 않도록 주의하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major oil spill has contaminated the coastline, endangering marine life and coastal ecosystems.",
+    "output": "Avoid the affected area, do not touch or attempt to clean up the oil, and report sightings of oiled wildlife to authorities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "인천 해역에서 대형 선박이 유류 유출 사고를 일으켰으며, 해양 환경에 심각한 피해를 입힐 우려가 있습니다.",
+    "output": "해안가를 피하고, 유류 오염을 방지하기 위해 조치를 취하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major food contamination incident has occurred, leading to a widespread recall of products due to health risks.",
+    "output": "Check for product recalls, avoid consuming contaminated food, and seek medical attention if experiencing symptoms of food poisoning."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "대구 일대에서 대규모 식품 오염 사건이 발생하였으며, 소비자들이 건강 위험을 우려하고 있습니다.",
+    "output": "해당 제품을 확인하고, 오염된 식품을 섭취하지 않도록 주의하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major blackout has plunged the city into darkness, affecting essential services and transportation.",
+    "output": "Use flashlights for illumination, conserve phone battery, and avoid opening the refrigerator unnecessarily to keep food fresh."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "울산 지역에서 대규모 정전 사태가 발생하였으며, 가정 및 기업의 전력 공급이 중단되었습니다.",
+    "output": "손전등을 사용하여 가로등을 밝히고, 전기를 아끼기 위해 소모를 줄이세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A major water contamination crisis has hit the city, with reports of unsafe levels of pollutants in the drinking water supply.",
+    "output": "Boil water before drinking, use bottled water if available, and follow water quality advisories from local authorities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 생성하세요.",
+    "input": "세종시 수도권에서 심각한 수질 오염 사태가 발생하였으며, 생활용수에 유해물질이 검출되었습니다.",
+    "output": "끓인 물을 섭취하고, 식수 품질 안내를 따르며, 수질 저해 요인을 주의하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A strong earthquake has occurred in Tokyo, Japan, with aftershocks expected.",
+    "output": "Stay away from tall buildings, take cover under a sturdy table, and be prepared for aftershocks."
+  },
+  {
+    "instruction": "시민에게 지진 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 진도 5.0의 지진이 발생했습니다. 여러 건물에서 구조물이 손상되었습니다.",
+    "output": "낙하물을 피하고 안전한 장소로 대피하세요. 비상 시 대피소로 이동하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A wildfire is spreading rapidly in California, with high winds fueling the flames.",
+    "output": "Evacuate immediately if you are in the affected area. Follow evacuation routes and listen to emergency services."
+  },
+  {
+    "instruction": "시민에게 산불 대응 조언을 제공하세요.",
+    "input": "호주 시드니 지역에서 대규모 산불이 발생했습니다. 연기와 화재가 인근 도시에 영향을 미칠 수 있습니다.",
+    "output": "외출을 삼가고 창문을 닫아 실내에 머무르세요. 대기 질이 나빠질 경우 마스크를 착용하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "Torrential rain is forecasted in Mumbai, India, leading to potential flooding in low-lying areas.",
+    "output": "Avoid flooded areas, move to higher ground if necessary, and stay tuned to weather updates."
+  },
+  {
+    "instruction": "시민에게 홍수 대응 조언을 제공하세요.",
+    "input": "일본 오사카 지역에서 호우주의 경고가 발령되었습니다. 하천 주변 지역은 침수 우려가 있습니다.",
+    "output": "침수 위험이 있는 지역을 피하고 안전한 곳으로 대피하세요. 비상 연락망을 확인하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "Extreme heatwave is hitting Phoenix, Arizona, with temperatures soaring above 110°F.",
+    "output": "Stay indoors during peak heat hours, drink plenty of water, and avoid strenuous outdoor activities."
+  },
+  {
+    "instruction": "시민에게 폭염 대응 조언을 제공하세요.",
+    "input": "한국 서울 지역에서 폭염 경보가 발령되었습니다. 실내에서 시간을 보내는 것이 좋습니다.",
+    "output": "외출을 자제하고 무더운 날씨에 노출을 피하세요. 물을 충분히 섭취하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A tsunami warning has been issued for the coastal areas of Busan, South Korea.",
+    "output": "Evacuate to higher ground immediately and follow the instructions of local authorities."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "서울 지역에서 강력한 지진이 발생했습니다. 건물 안전을 확인하세요.",
+    "output": "건물 안전을 확인하고 가능한 한 실외로 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "An intense heatwave is forecasted for Los Angeles, California with temperatures exceeding 100°F.",
+    "output": "Stay indoors, stay hydrated, and avoid strenuous outdoor activities during peak hours."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "일본에서 산불 경보가 발령되었습니다. 산불 피해를 최소화하기 위한 조치를 취하세요.",
+    "output": "산불 피해를 최소화하기 위해 산불 피난소로 대피하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A massive flood is expected to hit the low-lying areas of Bangladesh in the next 48 hours.",
+    "output": "Move to higher ground and secure your important documents and belongings."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "Australia's east coast is under threat of a category 4 cyclone with strong winds and heavy rainfall.",
+    "output": "Follow evacuation orders and stay indoors until the storm passes."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A wildfire has broken out in the forests of California, threatening nearby residential areas.",
+    "output": "Evacuate immediately and do not return until authorities declare it safe to do so."
+  },
+  {
+    "instruction": "시민에게 재난 대응 조언을 제공하세요.",
+    "input": "대한민국 전체 지역에서 폭염 경보가 발령되었습니다. 노인과 어린이에게 특별한 주의를 기울이세요.",
+    "output": "물을 충분히 섭취하고 냉방 시설을 이용하여 노인과 어린이를 보호하세요."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "An earthquake of magnitude 7.5 has struck off the coast of Indonesia, triggering a tsunami warning.",
+    "output": "Move to higher ground immediately and stay away from the coast until the all-clear is given."
+  },
+  {
+    "instruction": "Provide disaster response advice to citizens.",
+    "input": "A massive wildfire is spreading rapidly in California, threatening residential areas.",
+    "output": "Evacuate immediately and follow the instructions of local authorities."
+  },
+  {
+    "instruction": "시민에게 지진 대비 조언을 제공하세요.",
+    "input": "서울 지역에서 규모 5.0의 지진이 발생했습니다. 여러 건물에서 손상이 보고되고 있습니다.",
+    "output": "건물 내부로 대피하거나 안전한 장소로 이동하세요. 급박한 상황에서는 테이블 아래로 숨어주세요."
+  },
+  {
+    "instruction": "Provide advice on flood response to citizens.",
+    "input": "Heavy rainfall has caused severe flooding in the low-lying areas of Tokyo, Japan.",
+    "output": "Avoid walking or driving through floodwaters. Move to higher ground and seek shelter immediately."
+  },
+  {
+    "instruction": "시민에게 산불 대응 안내를 제공하세요.",
+    "input": "호주 뉴사우스웨일스 주에서 대규모 산불이 발생하여 수많은 주택이 위험에 처해 있습니다.",
+    "output": "주변 화염을 피하고 즉시 대피 명령에 따르세요. 가까운 대피소로 이동하세요."
+  },
+  {
+    "instruction": "Provide typhoon response advice to citizens.",
+    "input": "A category 3 typhoon is approaching the Philippines with strong winds and heavy rainfall expected.",
+    "output": "Secure loose objects outside and stay indoors. Prepare emergency supplies and stay informed about updates."
+  },
+  {
+    "instruction": "시민에게 폭염 대응 가이드라인을 제공하세요.",
+    "input": "서울 지역에서 기록적인 더위가 예상되며, 열파 경보가 발령되었습니다.",
+    "output": "외출을 최소화하고 수분을 충분히 섭취하세요. 에어컨이 없는 경우 시원한 장소를 찾아가세요."
+  }
+]
